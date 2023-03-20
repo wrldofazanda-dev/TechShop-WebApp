@@ -31,7 +31,7 @@ Once basic set up is done. You can play around with the TechShop web app and mak
 * Azanda Zama 
 Email: azandaz@ceeteegee.org
 Twitter: [@wlrdofazanda](https://twitter.com/wlrdofazanda)
-Linkedin: [Azanda Zama](https://za.linkedin.com/in/azanda-zama-a176b2167)
+Linkedin: [Azanda Zama](https://za.linkedin.com/in/wrldofazanda)
 
 
 ## License
